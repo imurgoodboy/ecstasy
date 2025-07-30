@@ -1,6 +1,8 @@
 import discord
 import google.generativeai as genai
 from discord.ext import commands
+from discord.ext import commands
+
 
 genai.configure(api_key="AIzaSyBJs6VsBiCKCAHlzlsnU71SgkzDYg7Q8-4")
 
