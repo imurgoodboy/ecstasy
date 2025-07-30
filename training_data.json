@@ -1,0 +1,18 @@
+[
+    {
+        "awkward_input": "we",
+        "expected_response": "shouldn't"
+    },
+    {
+        "awkward_input": "s",
+        "expected_response": "y"
+    },
+    {
+        "awkward_input": "sybau",
+        "expected_response": "no"
+    },
+    {
+        "awkward_input": "Sybau",
+        "expected_response": "sybau is a bad word and stands for shut your bitch ass up. Any sort of language like that isn't allowed. Any language containing abusive or vulgar acronyms apart from wtf or other small acronyms are not allowed. Moreover, any bypasses of chat censor like  s y b a u or s y b * u aren't allowed."
+    }
+]
