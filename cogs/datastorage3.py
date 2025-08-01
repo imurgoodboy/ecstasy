@@ -8,7 +8,7 @@ import json
 import os
 
 # MongoDB Setup
-mongo_client = MongoClient("mongodb://localhost:27017")
+mongo_client = MongoClient("mongodb+srv://samarramsingh04:samar234@xpprofile.qo44i.mongodb.net/")
 db = mongo_client["moderation"]
 collection = db["flags"]
 
